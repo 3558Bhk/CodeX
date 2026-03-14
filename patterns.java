@@ -1,8 +1,9 @@
 // this is pattern problem
 public class patterns{
     public static void pattern1(int n){
-        for(int i=0; i<n; i++){
-            for(int j=0;j<n;j++){
+        for(int i=1; i<n; i++){
+            //i have changed i =0  to i= 1
+            for(int j=1;j<n;j++){
                 System.out.print("* ");
             }
             System.out.println();
