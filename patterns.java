@@ -1,3 +1,4 @@
+// this is pattern problem
 public class patterns{
     public static void pattern1(int n){
         for(int i=0; i<n; i++){
