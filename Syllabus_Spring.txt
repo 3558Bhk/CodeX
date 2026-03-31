@@ -1,0 +1,126 @@
+===============================
+SPRING FRAMEWORK - FULL SYLLABUS
+===============================
+
+1. INTRODUCTION TO SPRING
+-------------------------
+- What is Spring
+- How Spring fits into the Enterprise world
+- Spring Modules
+
+2. SPRING CORE (BASIC CONCEPTS)
+--------------------------------
+Theory/Practical
+
+- What is a Core Container
+- Introduction to IOC (Inversion of Control)
+- Types of DI (Dependency Injection)
+- Setter vs Constructor Injection
+- Resolving Constructor Confusion
+- Collection DI
+- Bean Inheritance
+- Collection Merging
+- Inner Beans
+- Using IDRef
+- Bean Aliasing
+- Bean Scopes
+- Null String handling
+- Bean Autowiring
+- Nested Bean Factories
+
+3. SPRING CORE (ADVANCED CONCEPTS)
+----------------------------------
+Theory/Practical
+
+- P-Namespace
+- Dependency Check
+- Depends-On
+- Factory Beans
+- Static Factory Method
+- Instance Factory Method
+- Aware Interfaces
+- Bean Lifecycle
+- Method Replacement
+- Lookup Method Injection
+- Property Editors
+- BeanFactoryPostProcessor
+
+4. SPRING CORE (3.0 ANNOTATIONS)
+--------------------------------
+Theory/Practical
+
+- Spring vs Java Config
+- Project Annotations:
+  • @Required
+  • @Autowired
+  • @PostConstruct
+  • @PreDestroy
+  • @Qualifier
+  • @Resource
+  • @Component
+  • @Service
+  • @Controller
+  • @Named
+
+- Annotation-based Post Processors:
+  • AutowiredAnnotationBeanPostProcessor
+  • CommonAnnotationBeanPostProcessor
+  • PersistenceAnnotationBeanPostProcessor
+  • RequiredAnnotationBeanPostProcessor
+
+5. SPRING AOP (ASPECT ORIENTED PROGRAMMING)
+-------------------------------------------
+Theory/Practical
+
+- AOP Concepts
+- Programmatic vs Declarative AOP
+
+Programmatic AOP:
+  • Types of Advices
+  • Types of Pointcuts
+  • Working with Proxies
+
+Declarative AOP:
+  • Using AOP 2.0 Config Element
+  • OGNL Expressions
+
+- AspectJ AOP
+
+6. SPRING TRANSACTION MANAGEMENT (TX)
+-------------------------------------
+Theory/Practical
+
+- AOP 2.0 Configuration-driven Transaction Management
+- AspectJ Annotation-based Transaction Management
+
+7. SPRING JDBC
+---------------
+Theory/Practical
+
+- What is DAO Pattern?
+- Ways to Implement Spring DAO
+- Choosing JDBC Access Approach
+- JDBC Template
+- Executing Statements
+- Running Queries
+- SQL Parameters Handling
+
+8. SPRING MVC
+--------------
+Theory/Practical
+
+- Spring 3.0 Features
+- Introduction to Spring MVC
+- Handler Mapping
+- Controllers
+- Validations
+- Handler Interceptors
+- Views
+- Form Tags
+
+9. SPRING ORM (OBJECT RELATIONAL MAPPING)
+-----------------------------------------
+- Spring Integration with ORM
+- Integrating with Hibernate
+- Creating and Injecting Hibernate Session Factory
+- Managing Transactions
