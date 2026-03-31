@@ -1,0 +1,113 @@
+1.INTRODUCTION
+
+      Why Java
+      Paradigms
+      Diff b/w Java & Other (C,C++)
+      Java history
+      Java features
+      Java programming format
+      Java Tokens
+      Java Statements
+      Java Data Types
+      Typecasting
+      Arrays
+
+2.OOPS
+
+      Introduction
+      Class
+      Object
+      Static Keywords
+      Constructors
+      This Key Word
+      Inheritance
+      Super Key Word
+      Polymorphism (Over Loading & Over Riding)
+      Abstraction
+      Encapsulation
+      Abstract Classes
+      Interfaces
+
+3. STRING MANIPULATIONS
+
+      String
+      String Buffer
+      String Tokenizer
+
+4. PACKAGES
+
+      Introduction to all predefined packages
+      User Defined Packages
+      Access Specifiers
+
+5. EXCEPTION HANDLING
+
+      Introduction
+      Pre Defined Exceptions         
+      Try-Catch-Finally
+      Throws, throw
+      User Defined Exception examples
+
+6. MULTITHREADING
+
+      Introduction
+      Thread Creations
+      Thread Life Cycle
+      Life Cycle Methods
+      Synchronization
+      Wait() notify() notify all() methods
+
+7. I/O STREAMS
+
+      Introduction
+      Byte-oriented streams
+      Character – oriented streams
+      File
+      Random-access file
+      Serialization
+
+8. NETWORKING
+      
+      Introduction
+      Socket, Server socket
+      Client –Server Communication
+
+9. WRAPPERCLASSES
+
+    Introduction
+    Byte, Short, Integer, Long, Float, Double, Character, Boolean classes.
+
+10. COLLECTION FRAME WORK
+
+    Introduction
+    Util Package interfaces, List, Set, Map
+    List interface 7 its classes
+    Set interface & its classes
+    Map interface & its classes
+
+11. INNER CLASSES
+
+    Introduction
+    Member inner class
+     Static inner class
+     Local inner class
+    Anonymous inner class
+
+12. AWT
+
+      Introduction
+      Components
+      Event-Delegation-Model
+      Listeners
+      Layouts
+      Individual components Lable, Button, CheckBox, Radio Button,
+      Choice, List, Menu, Text Field, Text Area
+
+
+13. SWING(JFC)
+
+      Introduction Diff b/w awt and swing
+      Components hierarchy
+      Panes
+      Individual Swings components Jlabel,
+      JButton, JTextField, JTextAres.
